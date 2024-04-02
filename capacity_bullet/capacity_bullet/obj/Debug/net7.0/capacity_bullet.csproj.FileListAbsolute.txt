@@ -1,0 +1,15 @@
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.csproj.AssemblyReference.cache
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.AssemblyInfoInputs.cache
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.AssemblyInfo.cs
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\bin\Debug\net7.0\capacity_bullet.exe
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\bin\Debug\net7.0\capacity_bullet.deps.json
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\bin\Debug\net7.0\capacity_bullet.runtimeconfig.json
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\bin\Debug\net7.0\capacity_bullet.dll
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\bin\Debug\net7.0\capacity_bullet.pdb
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.dll
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\refint\capacity_bullet.dll
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.pdb
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\capacity_bullet.genruntimeconfig.cache
+C:\Users\CA.R215.15\source\repos\capacity_bullet\capacity_bullet\obj\Debug\net7.0\ref\capacity_bullet.dll

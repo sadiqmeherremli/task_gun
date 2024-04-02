@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "capacity_bullet/1.0.0": {
+        "runtime": {
+          "capacity_bullet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "capacity_bullet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
